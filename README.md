@@ -1,9 +1,9 @@
-# Small media app...
+# Small media app...(ReactTs + Firebase)
 
 In progress:
-Security
-Styling
-Features
+"Security"
+"Styling"
+"Features"
 
 # Getting Started with Create React App
 
